@@ -14,9 +14,12 @@ now this is some more trial.
 
 >block quote *italic* **Bold**
 
-### lists
+### lists (unordered)
 - this is item one
 - this is item two
 - this is item three
 
-
+### lists (ordered)
+1. first item
+2. second item 
+3. third item
