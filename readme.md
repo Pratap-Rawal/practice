@@ -14,3 +14,9 @@ now this is some more trial.
 
 >block quote *italic* **Bold**
 
+### lists
+- this is item one
+- this is item two
+- this is item three
+
+
